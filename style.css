@@ -1,0 +1,26 @@
+
+#container{
+	position:relative;
+}
+	.foto{
+		position:absolute;
+		top:0;
+		right:0;
+		height:300px;
+		width:300px;
+	}
+	
+	p.border{
+		border:2px solid black;
+		border-radius:8px; 
+		width:220px;
+		font-style:bold italic;
+		
+	}
+	
+	div.movie{
+		margin: 5px;
+		border: 1px solid #ccc;
+		float: left;
+		width: 20px0px;
+	}
